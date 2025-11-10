@@ -1,8 +1,8 @@
-# Programming Fundamentals: Functions
+# "Programming Fundamentals: Functions"
 
-This project contains example programs for learning functions in C++.
+This project contains example programs for learning the functions in C++.
 
-## Features
+## Features for it
 - Functions with and without arguments
 - Function overloading examples
 - Recursion examples
